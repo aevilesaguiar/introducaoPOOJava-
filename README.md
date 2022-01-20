@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # POO-Modulo9
 
 Repositório concernente ao Módulo 9 - Introdução à Orientação a Objetos! JDev Treinamento
@@ -25,4 +26,10 @@ Bons estudos! :)
 Professor: <b>Alex Fernando Egídio</b> <br />
 Monitor/Suporte: <b>Fernando Rafael Lopes Murta</b> <br />
 Monitor/Suporte: <b>Tadeu Espíndola Palermo</b>
+=======
+# Introdução a orientação a objetos com Java
+
+Aprenda de modo totalmente prático os principais pilares da Programação Orientada a Objetos (POO). Nesse contexto, o
+expert explora os conceitos de Abstração, Encapsulamento, Herança e Polimorfismo com exemplos reais.
+>>>>>>> branch 'master' of https://github.com/aevilesaguiar/introducaoPOOJava-.git
 
