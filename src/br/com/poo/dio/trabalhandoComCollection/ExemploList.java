@@ -20,7 +20,9 @@ public class ExemploList {
 		System.out.println(notas);
 		
 		
-		System.out.println("Exiba a posição da nota:"+notas.indexOf(7d));
+		System.out.println("Exiba a posição da nota:"+notas.indexOf(5d));
+		
+		System.out.println("Adicione na lista a nota 8.0 na posição 4:");
 		
 		
 }
